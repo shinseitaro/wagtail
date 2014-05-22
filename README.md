@@ -1,6 +1,6 @@
-# wagtail
+# wagtail ![wagtail](/images/seki103.jpg "wagtail")![wagtail](/images/seki103.jpg "wagtail")![wagtail](/images/seki103.jpg "wagtail")
 
-Experimental online classifiers implemented in Clojure. ![wagtail](/images/seki102.jpg "wagtail")
+Experimental online classifiers implemented in Clojure. 
 
 ## Usage
 
